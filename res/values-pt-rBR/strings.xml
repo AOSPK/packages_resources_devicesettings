@@ -72,6 +72,7 @@
     <string name="hand_wave_gesture_flat_summary">Pulsar somente se a tela do celular estiver em uma superfície plana</string>
     <string name="pick_up_gesture_title">Pegar</string>
     <string name="pick_up_gesture_summary">Mostrar as notificações ao pegar no dispositivo</string>
+    <string name="pick_up_wake_gesture_summary">Acorde o dispositivo ao pegar</string>
     <string name="pocket_gesture_title">Bolso</string>
     <string name="pocket_gesture_summary">Pulsar notificações após remover do bolso</string>
     <string name="proximity_wake_title">Acordar por proximidade</string>
@@ -99,6 +100,7 @@
     <string name="feedback_intensity_medium">Média</string>
     <string name="feedback_intensity_high">Alta</string>
     <string name="dialog_ok">OK</string>
+    <string name="disabled">Desativado</string>
     <string name="doze_settings_help_title">Ajuda</string>
     <string name="doze_settings_help_text">Esses recursos monitoram o sensor para que o dispositivo possa despertar do estado de repouso e pulsar notificações. O sensor escolhido só é habilitado quando o dispositivo recebe uma notificação, isso ajuda a reduzir o uso de bateria. Há também uma opção para ativar o sensor escolhido assim que a tela desliga, isso causará o maior uso da bateria.</string>
     <string name="button_panel_title">Botões adicionais</string>
